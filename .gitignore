@@ -1,0 +1,12 @@
+_pycache_/
+*.py[cod]
+.vscode
+*.webm
+results
+output
+allure-report
+*.xml
+*.html
+node_modules
+package-lock.json
+package.json
